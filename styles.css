@@ -1,0 +1,28 @@
+body{
+    color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.about-me{
+    color: white;
+    background-color: #acc4e1;
+}
+
+.about-me img{
+    border-radius: 50%;
+}
+
+.nav-pills{
+    color: white;
+}
+
+.features{
+    background-color: white;
+    color: black;
+}
+
+.contact{
+    background-color:#acc4e1;
+    color: white;
+}
